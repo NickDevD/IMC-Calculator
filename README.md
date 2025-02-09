@@ -14,4 +14,4 @@ Este projeto Java tem como objetivo calcular o Índice de Massa Corporal (IMC) d
 ## Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone 
+   git clone https://github.com/NickDevD/IMC-Calculator.git
